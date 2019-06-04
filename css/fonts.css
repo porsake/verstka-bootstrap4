@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Segoe WP Light";
+    src: url("../fonts/Segoe WP Light.woff2") format("woff2"), url("../fonts/Segoe WP Light.woff") format("woff");
+}
+
+@font-face {
+    font-family: "SegoeWPN";
+    src: url("../fonts/SegoeWPN.woff2") format("woff2"), url("../fonts/SegoeWPN.woff") format("woff");
+}
+
+@font-face {
+    font-family: "SourceSansPro-Regular";
+    src: url("../fonts/SourceSansPro-Regular.woff2") format("woff2"), url("../fonts/SourceSansPro-Regular.woff") format("woff");
+}
+
